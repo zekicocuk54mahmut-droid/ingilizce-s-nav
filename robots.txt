@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zekicocuk54mahmut-droid.github.io/ingilizce-sinav/sitemap.xml
